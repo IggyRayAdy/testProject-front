@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04f16587-eb37-44d9-802e-fc72cddfabca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eqwqbzUj7akTwpuKBexl5a652S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hermes-front-master2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Banners.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/Banners.js" working-dir="$PROJECT_DIR$/src/components">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Banners.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04f16587-eb37-44d9-802e-fc72cddfabca" name="Default Changelist" comment="" />
+      <created>1595062622263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595062622263</updated>
+      <workItem from="1595062623474" duration="16928000" />
+      <workItem from="1595091935674" duration="31535000" />
+      <workItem from="1595173021532" duration="30221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595094013031">
+      <screen x="67" y="27" width="1853" height="958" />
+    </state>
+    <state x="451" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.958@67.27.1853.958" timestamp="1595094013031" />
+    <state x="1239" y="425" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595162410986">
+      <screen x="67" y="27" width="1853" height="958" />
+    </state>
+    <state x="1214" y="432" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595063919292" />
+    <state x="1239" y="425" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.958@67.27.1853.958" timestamp="1595162410986" />
+    <state x="776" y="263" width="424" height="484" key="FileChooserDialogImpl" timestamp="1595193504407">
+      <screen x="67" y="27" width="1853" height="958" />
+    </state>
+    <state x="776" y="263" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.958@67.27.1853.958" timestamp="1595193504407" />
+    <state width="1807" height="247" key="GridCell.Tab.0.bottom" timestamp="1595173007004">
+      <screen x="67" y="27" width="1853" height="958" />
+    </state>
+    <state width="1807" height="247" key="GridCell.Tab.0.bottom/67.27.1853.958@67.27.1853.958" timestamp="1595173007004" />
+    <state width="1807" height="247" key="GridCell.Tab.0.center" timestamp="1595173007000">
+      <screen x="67" y="27" width="1853" height="958" />
+    </state>
+    <state width="1807" height="247" key="GridCell.Tab.0.center/67.27.1853.958@67.27.1853.958" timestamp="1595173007000" />
+    <state width="1807" height="247" key="GridCell.Tab.0.left" timestamp="1595173006999">
+      <screen x="67" y="27" width="1853" height="958" />
+    </state>
+    <state width="1807" height="247" key="GridCell.Tab.0.left/67.27.1853.958@67.27.1853.958" timestamp="1595173006999" />
+    <state width="1807" height="247" key="GridCell.Tab.0.right" timestamp="1595173007003">
+      <screen x="67" y="27" width="1853" height="958" />
+    </state>
+    <state width="1807" height="247" key="GridCell.Tab.0.right/67.27.1853.958@67.27.1853.958" timestamp="1595173007003" />
+    <state x="596" y="132" key="SettingsEditor" timestamp="1595079419399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="596" y="132" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595079419399" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1595080815766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595080815766" />
+  </component>
+</project>
